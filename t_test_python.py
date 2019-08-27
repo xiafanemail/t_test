@@ -127,7 +127,7 @@ trace2 = go.Scatter(
 )
 data = [trace1, trace2]
 
-plot(data, filename='normal-dists-plot')
+plot(data, filename='normal-dists-plot.html')
 
 
 # In[ ]:
